@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Drugs>
+  <Drug>
+    <Name>Парацетомол</Name>
+    <Type>Жарознижувальні засоби</Type>
+    <QuantityInPack>4</QuantityInPack>
+    <Price>87</Price>
+    <QuantityInStock>3416</QuantityInStock>
+    <ManufactureDate>2023-11-27T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-01-21T00:00:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Анальгин</Name>
+    <Type>Анальгезуючі засоби</Type>
+    <QuantityInPack>10</QuantityInPack>
+    <Price>65</Price>
+    <QuantityInStock>6752</QuantityInStock>
+    <ManufactureDate>2024-01-01T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-02-04T00:00:00</ExpiryDate>
+  </Drug>
+  <Drug>
+    <Name>Гидрокортизон pro </Name>
+    <Type>Гормональні препарати</Type>
+    <QuantityInPack>14</QuantityInPack>
+    <Price>34</Price>
+    <QuantityInStock>7653</QuantityInStock>
+    <ManufactureDate>2023-07-03T00:00:00</ManufactureDate>
+    <ExpiryDate>2024-01-25T01:14:52.2594779+02:00</ExpiryDate>
+  </Drug>
+</Drugs>

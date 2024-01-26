@@ -1,0 +1,92 @@
+[
+  {
+    "UserName": "mur",
+    "PasswordHash": "Un4BIOHeEik4NMjFXvbkQzGE8S2aogESJ/hp8ueD8EE=",
+    "Salt": "513KCWA2ovRFbfFy2WfTsA==",
+    "Email": "mur@mur"
+  },
+  {
+    "UserName": "re",
+    "PasswordHash": "PpLLakkmlLN5OjVDhxaHbrWe3reTBEjvg/BNJEMhtXk=",
+    "Salt": "W7DvBSNAscgJFsH7l42lcQ==",
+    "Email": "re@re"
+  },
+  {
+    "UserName": "qw",
+    "PasswordHash": "mOtymFcv8MbSgCQA3cRmmIzFBbEuBoU4NTqvNxxhVyo=",
+    "Salt": "X6USkxnz1s2s3cxXM9WBkw==",
+    "Email": "qw@qw"
+  },
+  {
+    "UserName": "User",
+    "PasswordHash": "w15yjJDCs/x/m3RGCyByt1OF1aPSJoVvRAQNZok89uU=",
+    "Salt": "QKPAlgtRQV1Ia2wmaM70tQ==",
+    "Email": "user@userr"
+  },
+  {
+    "UserName": "User1",
+    "PasswordHash": "XzRJa3RiRi01ew9pM14Xl6ODOOZM1Ayi32S0AirYqUU=",
+    "Salt": "jn9ByN86N78j0p\u002BTBg04/w==",
+    "Email": "user@user1"
+  },
+  {
+    "UserName": "Ber",
+    "PasswordHash": "PM9owr7\u002BzCUjPY8hbIgAmRd02suMSd109071FEXUyo0=",
+    "Salt": "zKXadUHt6Tl5j49BeRlM0Q==",
+    "Email": "ber@ber"
+  },
+  {
+    "UserName": "we",
+    "PasswordHash": "akjlEdVHf0hYzpdxclUP2jZ9mk5uIyShVB6Z950nU1k=",
+    "Salt": "l0ZDXDPmrmjIa3UTlZ/jmQ==",
+    "Email": "we@we"
+  },
+  {
+    "UserName": "www",
+    "PasswordHash": "ysvRZ9rpDx/sjM55H/g9BoR60oagbMQKkdxfcpmseLA=",
+    "Salt": "VFNY\u002BWLPMr9ma1jP7ixeug==",
+    "Email": "www@www"
+  },
+  {
+    "UserName": "bur@bur",
+    "PasswordHash": "y0djI\u002BF8Hobcf/p7JwWBtnCQumPRFIVLUWttQMakUKo=",
+    "Salt": "khjVVUJ89YdzdJ5fFi4REg==",
+    "Email": "bur@bur"
+  },
+  {
+    "UserName": "qqq",
+    "PasswordHash": "iSa12bPK/VJsUMOnttn0pAx7n4j1vTDUN4pCqyfAUG8=",
+    "Salt": "0cq7cwtL4aAJ6BDoiEj6hg==",
+    "Email": "qqq@qqq"
+  },
+  {
+    "UserName": "eee",
+    "PasswordHash": "l588OS03t03cl0p3Q0BkjcqkMbFsyYXDPcxDMlbORxo=",
+    "Salt": "zlLa6vNlpBtH5YT/YSK7zA==",
+    "Email": "eee@eee"
+  },
+  {
+    "UserName": "Trunk",
+    "PasswordHash": "oSS2QbQHKTGhmyi7MpabY95DlPrG/\u002BI/uUWOvUyMKAc=",
+    "Salt": "MxvQ5B\u002Bbt4pDuix5/AhYeg==",
+    "Email": "trunk@mail.ru"
+  },
+  {
+    "UserName": "brok",
+    "PasswordHash": "RE66\u002BEm8UlDvqHPMTTZNUN6\u002BmzJ15LQcatd9DbbFtdk=",
+    "Salt": "0xBH65ewZhJj6TskeT5btw==",
+    "Email": "brok@brok"
+  },
+  {
+    "UserName": "wert",
+    "PasswordHash": "9xPM6k8chEOuYcm3LMwN5UYGhcPtjQgtguEVUb/uXDc=",
+    "Salt": "U16a3A7ofQ12lrtmX8LsqQ==",
+    "Email": "wert@gmail.com"
+  },
+  {
+    "UserName": "qurt",
+    "PasswordHash": "fMgyEvxixNfxxY6YqGOIGXMZUKYw6Rh2d7oNdWlvQIY=",
+    "Salt": "\u002BdKehtA7weRt6bicIau5xw==",
+    "Email": "qurt@gam"
+  }
+]

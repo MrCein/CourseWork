@@ -1,0 +1,35 @@
+﻿<Window x:Class="WpfAppСourseWork.View.AddEditDrugWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfAppСourseWork.View"
+        mc:Ignorable="d"
+        Title="" Height="550" Width="800"  WindowStartupLocation="CenterScreen" Icon="/drugstore.png" FontSize="15">
+    <Grid>
+        <StackPanel Margin="10">
+            <TextBlock Text="Назва:" />
+            <TextBox Text="{Binding Name, UpdateSourceTrigger=PropertyChanged}" Margin="5" PreviewTextInput="TextBox_PreviewCharInput"/>
+
+            <TextBlock Text="Тип:" />
+            <ComboBox Text="{Binding Type, UpdateSourceTrigger=PropertyChanged}" ItemsSource="{Binding SelectedType, UpdateSourceTrigger=PropertyChanged}"  Margin="5"/>
+
+            <TextBlock Text="Кілкість в упаковці:" />
+            <TextBox Text="{Binding QuantityInPack, UpdateSourceTrigger=PropertyChanged}" Margin="5" PreviewTextInput="TextBox_PreviewDigitInput"/>
+
+            <TextBlock Text="Ціна:" />
+            <TextBox Text="{Binding Price, UpdateSourceTrigger=PropertyChanged}" Margin="5" PreviewTextInput="TextBox_PreviewDecimalInput"/>
+
+            <TextBlock Text="Кількість на складі:" />
+            <TextBox Text="{Binding QuantityInStock, UpdateSourceTrigger=PropertyChanged}" Margin="5" PreviewTextInput="TextBox_PreviewDigitInput"/>
+
+            <TextBlock Text="Дата Вироблення:" />
+            <DatePicker SelectedDate="{Binding ManufactureDate, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+            <TextBlock Text="Термін дії до:" />
+            <DatePicker SelectedDate="{Binding ExpiryDate, UpdateSourceTrigger=PropertyChanged}" Margin="5"/>
+
+            <Button x:Name="Submit" Command="{Binding AddCommand}" Click="OkButton_Click" Height="40" Margin="30" />
+        </StackPanel>
+    </Grid>
+</Window>
